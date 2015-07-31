@@ -1,0 +1,19 @@
+{
+  "name": "yoangular",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Nelis <andrew.nelis@onelan.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "~2.3.4",
+    "underscore": "~1.8.3"
+  }
+}
